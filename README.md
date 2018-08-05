@@ -7,7 +7,7 @@ Create your docker image from the project directory by running:
 
 `docker build -t <image-name> .`
 
-You can expose a local directory which you want to have served via the `mini-webserver` by starting it with
+You can run the `mini-webserver` by starting it with
 
 `docker run --name mini-web -p 8080:3000 -d <image-name>`
 
