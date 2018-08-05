@@ -1,5 +1,5 @@
 # mini-webserver
-Provides a minimal webserver (via Express.js) to expose static files from the Docker host via HTTP. This image is built with Alpine Linux (base image `8.1.4-alpine`) and aims for a minimal size. You can copy all your static content in the `./content` folder. A sample single-page web application, Hyperspace by HTML5 UP if provided.
+Provides a minimal webserver (via Express.js) to expose static files from the Docker host via HTTP. This image is built with Alpine Linux (base image `8.1.4-alpine`) and aims for a minimal size. You can copy all your static content in the `./content` folder. A sample single-page web application, Hyperspace by HTML5 UP is provided.
 
 ## Usage
 
